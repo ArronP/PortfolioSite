@@ -1,0 +1,8 @@
+body {
+      position: relative; 
+  }
+  #home {padding-top:50px;height:1000px;color: #fff; background-color: #000;}
+  #about {padding-top:50px;height:1000px;color: #fff; background-color: #1E88E5;}
+  #work {padding-top:50px;height:1000px;color: #fff; background-color: #673ab7;}
+  #contact {padding-top:50px;height:250px;color: #fff; background-color: #ff9800;}
+  #footer {padding-top:50px;height:100px;color: #fff; background-color: #000;}
